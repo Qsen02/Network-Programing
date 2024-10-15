@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfo.cs
+C:\Users\student\Desktop\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\bin\Debug\net6.0\TimeClient.exe
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\bin\Debug\net6.0\TimeClient.deps.json
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\bin\Debug\net6.0\TimeClient.runtimeconfig.json
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\bin\Debug\net6.0\TimeClient.dll
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\bin\Debug\net6.0\TimeClient.pdb
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.dll
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\refint\TimeClient.dll
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.pdb
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\TimeClient.genruntimeconfig.cache
+F:\Yasen\Мрежово програмиране\SocketTime\TimeClient\obj\Debug\net6.0\ref\TimeClient.dll

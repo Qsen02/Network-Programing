@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\student\Desktop\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\student\Desktop\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\student\Desktop\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\student\Desktop\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\student\Desktop\SocketChat\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.exe
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.dll
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.dll
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+F:\Yasen\Мрежово програмиране\SocketChat\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll

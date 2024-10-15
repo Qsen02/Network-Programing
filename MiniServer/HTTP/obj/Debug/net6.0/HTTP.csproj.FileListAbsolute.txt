@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfo.cs
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\bin\Debug\net6.0\HTTP.deps.json
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\bin\Debug\net6.0\HTTP.dll
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\bin\Debug\net6.0\HTTP.pdb
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.dll
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\refint\HTTP.dll
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.pdb
+F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\ref\HTTP.dll

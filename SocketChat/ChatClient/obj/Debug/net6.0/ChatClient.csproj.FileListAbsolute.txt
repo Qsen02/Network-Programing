@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.exe
+C:\Users\student\Desktop\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.deps.json
+C:\Users\student\Desktop\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.runtimeconfig.json
+C:\Users\student\Desktop\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.dll
+C:\Users\student\Desktop\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.pdb
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfo.cs
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.dll
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\refint\ChatClient.dll
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.pdb
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.genruntimeconfig.cache
+C:\Users\student\Desktop\SocketChat\ChatClient\obj\Debug\net6.0\ref\ChatClient.dll
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.exe
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.deps.json
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.runtimeconfig.json
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.dll
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\bin\Debug\net6.0\ChatClient.pdb
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.dll
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\refint\ChatClient.dll
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.pdb
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ChatClient.genruntimeconfig.cache
+F:\Yasen\Мрежово програмиране\SocketChat\ChatClient\obj\Debug\net6.0\ref\ChatClient.dll
