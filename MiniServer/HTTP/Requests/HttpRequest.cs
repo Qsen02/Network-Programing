@@ -2,6 +2,7 @@
 using HTTP.Enums;
 using HTTP.Exceptions;
 using HTTP.Headers;
+using System.Reflection.Metadata;
 
 namespace HTTP.Requests
 {
@@ -41,6 +42,17 @@ namespace HTTP.Requests
         private bool IsValidRequestLine(string[] requestLine)
         {
             if (requestLine.Length != 3 || requestLine[2] != GloablConstrains.HttpOneProtocolFragment) return false;
+            return true;
+        }
+
+        private bool IsValidRequestQueryString(string queryString) {
+            CoreValidator.ThrowIfNullOrEmpty(queryString,nameof(queryString));
+
+            string[] parameters = queryString.Split(new[] { '&' }, StringSplitOptions.None);
+
+            if (parameters.Length < 1) {
+                return false;
+            }
             return true;
         }
 
@@ -87,6 +99,12 @@ namespace HTTP.Requests
             if (!url.Contains('?')) return;
 
             string query = url.Split(new[] { '?' }, StringSplitOptions.None)[1];
+
+            if (!this.IsValidRequestQueryString(query))
+            {
+                throw new BadRequestException();
+            }
+
             this.ParseParameters(query, this.QueryData);
         }
 
@@ -97,12 +115,13 @@ namespace HTTP.Requests
             this.ParseParameters(bodyParameters, this.FormData);
         }
 
-        private void ParseParameters(string parameters, Dictionary<string, object> dict)
+        private void ParseParameters(string parameter, Dictionary<string, object> dict)
         {
-            if (!parameters.Contains("=")) return;
+            if (!parameter.Contains("=")) return;
 
-            string[] parameterPairs = parameters.Split(new[] { '&' }, StringSplitOptions.None);
-            foreach (var pair in parameterPairs)
+            string[] parametersPair = parameter.Split(new[] { '&' }, StringSplitOptions.None);
+
+            foreach (var pair in parametersPair)
             {
                 string[] nameAndValue = pair.Split(new[] { '=' }, StringSplitOptions.None);
                 if (nameAndValue.Length != 2) continue;
