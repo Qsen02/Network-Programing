@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\views\\home\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\views\\home\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\students\\students\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30E696-2B7F-4B1E-8F86-7B1D218126F2}|Students\\Students.csproj|solutionrelative:students\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Students\\Controllers\\AboutController.cs",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Students\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:38:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Students\\Program.cs",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Program.cs",
+              "RelativeToolTip": "Students\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:29:26.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.html",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Views\\Home\\Update.html",
+              "RelativeDocumentMoniker": "Students\\Views\\Home\\Update.html",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Views\\Home\\Update.html",
+              "RelativeToolTip": "Students\\Views\\Home\\Update.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T18:26:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Students\\Models\\DatabaseContext.cs",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "Students\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:18:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Students\\Models\\Student.cs",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Models\\Student.cs",
+              "RelativeToolTip": "Students\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:13:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Students\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\Students\\Students\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Students\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:54:46.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

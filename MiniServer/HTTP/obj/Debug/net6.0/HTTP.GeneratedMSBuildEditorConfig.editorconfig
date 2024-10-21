@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HTTP
-build_property.ProjectDir = F:\Yasen\Мрежово програмиране\MiniServer\HTTP\
+build_property.ProjectDir = C:\Users\student\Desktop\MiniServer\HTTP\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

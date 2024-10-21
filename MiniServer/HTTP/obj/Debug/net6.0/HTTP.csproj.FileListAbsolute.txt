@@ -13,3 +13,10 @@ F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.
 F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\refint\HTTP.dll
 F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\HTTP.pdb
 F:\Yasen\Мрежово програмиране\MiniServer\HTTP\obj\Debug\net6.0\ref\HTTP.dll
+C:\Users\student\Desktop\MiniServer\HTTP\bin\Debug\net6.0\HTTP.deps.json
+C:\Users\student\Desktop\MiniServer\HTTP\bin\Debug\net6.0\HTTP.dll
+C:\Users\student\Desktop\MiniServer\HTTP\bin\Debug\net6.0\HTTP.pdb
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.dll
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\refint\HTTP.dll
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\HTTP.pdb
+C:\Users\student\Desktop\MiniServer\HTTP\obj\Debug\net6.0\ref\HTTP.dll

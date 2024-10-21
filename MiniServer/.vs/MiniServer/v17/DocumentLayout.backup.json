@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\MiniServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|c:\\users\\student\\desktop\\miniserver\\miniserver\\results\\htmlresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|solutionrelative:miniserver\\results\\htmlresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|c:\\users\\student\\desktop\\miniserver\\miniserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|solutionrelative:miniserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|c:\\users\\student\\desktop\\miniserver\\miniserver\\routing\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|solutionrelative:miniserver\\routing\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\response\\ihttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\response\\ihttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\response\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\response\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\requests\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|c:\\users\\student\\desktop\\miniserver\\http\\requests\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\requests\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\requests\\ihttprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\requests\\ihttprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|c:\\users\\student\\desktop\\miniserver\\miniserver\\routing\\serverroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|solutionrelative:miniserver\\routing\\serverroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|f:\\yasen\\\u043C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\miniserver\\http\\enums\\httprequestmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\enums\\httprequestmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571F7086-B0DF-40F7-A005-5605E1881217}|Demo\\Demo.csproj|c:\\users\\student\\desktop\\miniserver\\demo\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571F7086-B0DF-40F7-A005-5605E1881217}|Demo\\Demo.csproj|solutionrelative:demo\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|c:\\users\\student\\desktop\\miniserver\\http\\response\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8150CF18-986B-4643-A38B-697BC7B488BE}|HTTP\\HTTP.csproj|solutionrelative:http\\response\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|c:\\users\\student\\desktop\\miniserver\\miniserver\\miniserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B20971A9-5B89-4286-BAAC-18566F538E57}|MiniServer\\MiniServer.csproj|solutionrelative:miniserver\\miniserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,117 +42,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Extensions\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "HTTP\\Extensions\\StringExtensions.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Extensions\\StringExtensions.cs",
-              "RelativeToolTip": "HTTP\\Extensions\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "HtmlResults.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Results\\HtmlResults.cs",
+              "RelativeDocumentMoniker": "MiniServer\\Results\\HtmlResults.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Results\\HtmlResults.cs",
+              "RelativeToolTip": "MiniServer\\Results\\HtmlResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:17:26.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InternalServerErrorException.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Exceptions\\InternalServerErrorException.cs",
-              "RelativeDocumentMoniker": "HTTP\\Exceptions\\InternalServerErrorException.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Exceptions\\InternalServerErrorException.cs",
-              "RelativeToolTip": "HTTP\\Exceptions\\InternalServerErrorException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:09:47.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "HTTP\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "HTTP\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:06:05.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HttpResponse.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Response\\HttpResponse.cs",
-              "RelativeDocumentMoniker": "HTTP\\Response\\HttpResponse.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Response\\HttpResponse.cs",
-              "RelativeToolTip": "HTTP\\Response\\HttpResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:26:56.41Z",
+              "WhenOpened": "2024-10-21T08:41:44.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IHttpResponse.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Response\\IHttpResponse.cs",
-              "RelativeDocumentMoniker": "HTTP\\Response\\IHttpResponse.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Response\\IHttpResponse.cs",
-              "RelativeToolTip": "HTTP\\Response\\IHttpResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:23:39.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HttpRequest.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Requests\\HttpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\Requests\\HttpRequest.cs",
               "RelativeDocumentMoniker": "HTTP\\Requests\\HttpRequest.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Requests\\HttpRequest.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\Requests\\HttpRequest.cs",
               "RelativeToolTip": "HTTP\\Requests\\HttpRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwCYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:44:50.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T08:37:39.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HttpRequestMethod.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Enums\\HttpRequestMethod.cs",
-              "RelativeDocumentMoniker": "HTTP\\Enums\\HttpRequestMethod.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Enums\\HttpRequestMethod.cs",
-              "RelativeToolTip": "HTTP\\Enums\\HttpRequestMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ServerRoutingTable.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Routing\\ServerRoutingTable.cs",
+              "RelativeDocumentMoniker": "MiniServer\\Routing\\ServerRoutingTable.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Routing\\ServerRoutingTable.cs",
+              "RelativeToolTip": "MiniServer\\Routing\\ServerRoutingTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:42:39.174Z"
+              "WhenOpened": "2024-10-21T08:29:20.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IHttpRequest.cs",
-              "DocumentMoniker": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Requests\\IHttpRequest.cs",
-              "RelativeDocumentMoniker": "HTTP\\Requests\\IHttpRequest.cs",
-              "ToolTip": "F:\\Yasen\\\u041C\u0440\u0435\u0436\u043E\u0432\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\MiniServer\\HTTP\\Requests\\IHttpRequest.cs",
-              "RelativeToolTip": "HTTP\\Requests\\IHttpRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Title": "HttpResponse.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\Response\\HttpResponse.cs",
+              "RelativeDocumentMoniker": "HTTP\\Response\\HttpResponse.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\Response\\HttpResponse.cs",
+              "RelativeToolTip": "HTTP\\Response\\HttpResponse.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:41:02.221Z"
+              "WhenOpened": "2024-10-21T08:24:20.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniServer",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\MiniServer.csproj",
+              "RelativeDocumentMoniker": "MiniServer\\MiniServer.csproj",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\MiniServer.csproj",
+              "RelativeToolTip": "MiniServer\\MiniServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T08:23:43.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Routing\\ConnectionHandler.cs",
+              "RelativeDocumentMoniker": "MiniServer\\Routing\\ConnectionHandler.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Routing\\ConnectionHandler.cs",
+              "RelativeToolTip": "MiniServer\\Routing\\ConnectionHandler.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:15:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Server.cs",
+              "RelativeDocumentMoniker": "MiniServer\\Server.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\Server.cs",
+              "RelativeToolTip": "MiniServer\\Server.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:00.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MiniServer\\Demo\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo\\HomeController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MiniServer\\Demo\\HomeController.cs",
+              "RelativeToolTip": "Demo\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:57:13.418Z"
             }
           ]
         }

@@ -1,30 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HTTP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HTTP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HTTP.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HTTP/1.0.0": {
+      "type": "project",
+      "path": "../HTTP/HTTP.csproj",
+      "msbuildProject": "../HTTP/HTTP.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HTTP >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Dian\\.nuget\\packages\\": {},
+    "C:\\Users\\student\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Yasen\\Мрежово програмиране\\MiniServer\\MiniServer\\MiniServer.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\MiniServer.csproj",
       "projectName": "MiniServer",
-      "projectPath": "F:\\Yasen\\Мрежово програмиране\\MiniServer\\MiniServer\\MiniServer.csproj",
-      "packagesPath": "C:\\Users\\Dian\\.nuget\\packages\\",
-      "outputPath": "F:\\Yasen\\Мрежово програмиране\\MiniServer\\MiniServer\\obj\\",
+      "projectPath": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\MiniServer.csproj",
+      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\student\\Desktop\\MiniServer\\MiniServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\HTTP.csproj": {
+              "projectPath": "C:\\Users\\student\\Desktop\\MiniServer\\HTTP\\HTTP.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -72,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

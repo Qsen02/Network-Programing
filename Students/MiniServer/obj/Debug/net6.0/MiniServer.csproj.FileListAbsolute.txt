@@ -1,0 +1,30 @@
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.AssemblyInfo.cs
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MiniServer\MiniServer\bin\Debug\net6.0\MiniServer.deps.json
+C:\Users\student\Desktop\MiniServer\MiniServer\bin\Debug\net6.0\MiniServer.dll
+C:\Users\student\Desktop\MiniServer\MiniServer\bin\Debug\net6.0\MiniServer.pdb
+C:\Users\student\Desktop\MiniServer\MiniServer\bin\Debug\net6.0\HTTP.dll
+C:\Users\student\Desktop\MiniServer\MiniServer\bin\Debug\net6.0\HTTP.pdb
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.csproj.Up2Date
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.dll
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\refint\MiniServer.dll
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\MiniServer.pdb
+C:\Users\student\Desktop\MiniServer\MiniServer\obj\Debug\net6.0\ref\MiniServer.dll
+F:\Yasen\Мрежово програмиране\Students\MiniServer\bin\Debug\net6.0\MiniServer.deps.json
+F:\Yasen\Мрежово програмиране\Students\MiniServer\bin\Debug\net6.0\MiniServer.dll
+F:\Yasen\Мрежово програмиране\Students\MiniServer\bin\Debug\net6.0\MiniServer.pdb
+F:\Yasen\Мрежово програмиране\Students\MiniServer\bin\Debug\net6.0\HTTP.dll
+F:\Yasen\Мрежово програмиране\Students\MiniServer\bin\Debug\net6.0\HTTP.pdb
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.csproj.AssemblyReference.cache
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.csproj.Up2Date
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.dll
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\refint\MiniServer.dll
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\MiniServer.pdb
+F:\Yasen\Мрежово програмиране\Students\MiniServer\obj\Debug\net6.0\ref\MiniServer.dll
