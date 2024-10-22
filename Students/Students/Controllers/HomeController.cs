@@ -28,11 +28,12 @@ namespace Students.Controllers
                             <td>{student.LastName}</td>
                             <td>{student.Year}</td>
                             <td class='text-end'>
-                            <a class='btn btn-lg btn-outline-secondary' href='/Home/Update?UpdateId={student.Id}'>
-                            <i class='fas fa-edit'></i>Udpate
-                            </a>
-                            <button class='btn btn-lg btn-outline-secondary mx-2' data-bs-toggle='modal' data-bs-tagret='#Delete' data-id='{student.Id}'></button>
-                            <i class='fas fa-trash'></i> Delete
+                                <a class='btn btn-lg btn-outline-secondary' href='/Home/Update?UpdateId={student.Id}'>
+                                    <i class='fas fa-edit'></i>Udpate
+                                </a>
+                                <a class='btn btn-lg btn-outline-secondary mx-2' data-bs-toggle='modal' href='/Home/Delete?DeleteId={student.Id}'>
+                                    <i class='fas fa-trash'></i> Delete
+                                </a>
                             </td>
                         </tr>
                         ");
@@ -47,7 +48,7 @@ namespace Students.Controllers
             using (var db = new DatabaseContext()) {
                 db.Database.EnsureCreated();
                 string firstname = httpRequest.FormData["FirstName"].ToString();
-                string lastname = httpRequest.FormData["LatsName"].ToString();
+                string lastname = httpRequest.FormData["LastName"].ToString();
                 int year = int.Parse(httpRequest.FormData["Year"].ToString());
 
                 var student = new Student
@@ -70,17 +71,17 @@ namespace Students.Controllers
                         Student student= db.Students.Where(student=>student.Id==id).FirstOrDefault();
                         this.ViewData["Student.Id"]=student.Id.ToString();
                         this.ViewData["Student.FirstName"] = student.FirstName.ToString();
-                        this.ViewData["Student.LatsName"] = student.LastName.ToString();
+                        this.ViewData["Student.LastName"] = student.LastName.ToString();
                         this.ViewData["Student.Year"] = student.Year.ToString();
 
                         return this.View();
                     }
                     if (httpRequest.RequestMethod == HTTP.Enums.HttpRequestMethod.Post)
                     {
-                        int id = int.Parse(httpRequest.QueryData["UpdateId"].ToString());
+                        int id = int.Parse(httpRequest.FormData["UpdateId"].ToString());
                         Student student = db.Students.Where(student => student.Id == id).FirstOrDefault();
                         student.FirstName= httpRequest.FormData["FirstName"].ToString();
-                        student.LastName = httpRequest.FormData["LatsName"].ToString();
+                        student.LastName = httpRequest.FormData["LastName"].ToString();
                         student.Year = int.Parse(httpRequest.FormData["Year"].ToString());
 
                         db.Students.Update(student);
