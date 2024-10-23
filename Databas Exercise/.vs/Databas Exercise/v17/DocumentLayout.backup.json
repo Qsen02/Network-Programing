@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Databas Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\tasks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\tasks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\tasks\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\tasks\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\pages\\tasks\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\pages\\tasks\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|c:\\users\\student\\desktop\\databas exercise\\databas exercise\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E99A7-42F1-45CF-A0AC-B01B23E4B9F0}|Databas Exercise\\Databas Exercise.csproj|solutionrelative:databas exercise\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:50:03.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\appsettings.json",
+              "RelativeDocumentMoniker": "Databas Exercise\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\appsettings.json",
+              "RelativeToolTip": "Databas Exercise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T08:47:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Program.cs",
+              "RelativeToolTip": "Databas Exercise\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:46:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Tasks\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Index.cshtml.cs",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Tasks\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:40:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Tasks\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Details.cshtml.cs",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Tasks\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:40:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Tasks\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Edit.cshtml.cs",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Tasks\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:40:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Tasks\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Create.cshtml.cs",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Tasks\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:40:10.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Models\\TasksContext.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Models\\TasksContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Models\\TasksContext.cs",
+              "RelativeToolTip": "Databas Exercise\\Models\\TasksContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAD0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:37:32.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Pages\\Tasks\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Pages\\Tasks\\Delete.cshtml.cs",
+              "RelativeToolTip": "Databas Exercise\\Pages\\Tasks\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:40:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Databas Exercise\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Databas Exercise\\Databas Exercise\\Models\\Task.cs",
+              "RelativeToolTip": "Databas Exercise\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:38:44.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|c:\\users\\student\\desktop\\codefirst\\codefirst\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9318BA-856E-49CC-88B6-D99D68E52E07}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\BookCategory.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\BookCategory.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:27:12.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Category.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:25:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Book.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:23:22.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Company.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Company.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Company.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:12:13.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Employee.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:13:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Biography.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Biography.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Biography.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Biography.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Biography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:05:27.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Author.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\Author.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:00:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:59:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\CodeFirstContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\CodeFirstContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\CodeFirst\\CodeFirst\\CodeFirstContext.cs",
+              "RelativeToolTip": "CodeFirst\\CodeFirstContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:54:25.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
