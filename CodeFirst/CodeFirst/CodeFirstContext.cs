@@ -25,18 +25,24 @@ namespace CodeFirst
                 .HasForeignKey<Biography>(b => b.AuthorId);
 
             modelBuilder.Entity<Company>()
-              .HasOne(a => a.Employees)
+              .HasMany(a => a.Employees)
               .WithOne(b => b.Company)
-              .HasForeignKey<Biography>(b => b.CompanyId);
+              .HasForeignKey(b => b.CompanyId);
 
             modelBuilder.Entity<BookCategory>().HasKey(bc => new { bc.BookId, bc.CategoryId });
 
-            modelBuilder.Entity<BookCategory>().HasOne(bc => bc.Book)
-              .WithOne(b => b.BookCategories)
-              .HasForeignKey<Biography>(b => b.BookId);
+            modelBuilder.Entity<BookCategory>()
+              .HasOne(bc => bc.Book)
+              .WithMany(b => b.BookCategories)
+              .HasForeignKey(b => b.BookId);
 
+            modelBuilder.Entity<BookCategory>()
+              .HasOne(bc => bc.Category)
+              .WithMany(b => b.BookCategories)
+              .HasForeignKey(b => b.CategoryId);
         }
         protected override void OnConfiguring(DbContextOptionsBuilder options) {
+            options.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
             options.UseLazyLoadingProxies();
         }
     }

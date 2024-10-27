@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeFirst.Entity
 {
-    public class BookCategory:BaseEntity
+    public class BookCategory
     {
         public int BookId { get; set; }
         public virtual Book Book { get; set; }

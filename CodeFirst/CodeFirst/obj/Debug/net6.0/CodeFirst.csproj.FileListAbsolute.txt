@@ -1,0 +1,14 @@
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.csproj.AssemblyReference.cache
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.AssemblyInfoInputs.cache
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.AssemblyInfo.cs
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.csproj.CoreCompileInputs.cache
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\bin\Debug\net6.0\CodeFirst.deps.json
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\bin\Debug\net6.0\CodeFirst.runtimeconfig.json
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\bin\Debug\net6.0\CodeFirst.dll
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\bin\Debug\net6.0\CodeFirst.pdb
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.dll
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\refint\CodeFirst.dll
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.pdb
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\CodeFirst.genruntimeconfig.cache
+F:\Yasen\Мрежово програмиране\CodeFirst\CodeFirst\obj\Debug\net6.0\ref\CodeFirst.dll
